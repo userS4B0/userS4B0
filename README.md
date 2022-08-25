@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**userS4B0/userS4B0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- userS4B0's GitHub Profile -->
+<div align="justify">
+  <p align="center">
+    <samp>
+      <b>
+        cat README.md
+      <br>
+        Im userS4B0
+      <br>
+        Welcome to my GitHub Profile
+      </b>
+      <br>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaCove+NF&size=17&duration=3999&pause=1000&color=EA6F81&background=11AA2200&center=true&width=450&lines=Student+%26+It+Worker..." alt="Typing SVG" /></a>
+      <br>
+    </samp>
+  </p>
+<br>
