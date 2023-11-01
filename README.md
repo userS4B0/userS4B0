@@ -3,7 +3,7 @@
 
   <p align="left">
     <samp>
-      user@github-# cat README.md
+      user@githubcontent-$ cat README.md
       <br>
       <br>
     </samp>
@@ -20,9 +20,20 @@
       </b>
       <br>
       <br>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=CaskaydiaCove+NF&size=17&duration=3999&pause=1000&color=EA6F81&background=11AA2200&center=true&width=450&lines=Student+%26+It+Worker..." alt="Typing SVG" />
-        </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=mononoki&weight=800&size=30&duration=4000&pause=500&color=709AD2&center=true&vCenter=true&random=false&width=700&lines=Blue+Team+%26+Netkorking+enthusiastic!" alt="Typing SVG" /></a>
         <br>
       </samp>
     </p>
 <br>
+<p align="left">
+    <samp>
+      In this profile i will publish many different stuff related to tech.
+      <br>
+      I love coding and automating so i hope this profile can be full of projects.
+      <br>
+      <br>
+      Thanks for reading this, feel free to explore!
+      <br>
+      <br>
+    </samp>
+  </p>
