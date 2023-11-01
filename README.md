@@ -3,8 +3,9 @@
   <p align="center">
     <samp>
       <b>
-        cat README.md
+        user@github-# cat README.md
       <br>
+        Hi!
         Im userS4B0
       <br>
         Welcome to my GitHub Profile
