@@ -27,9 +27,9 @@
 <br>
 <p align="left">
     <samp>
-      In this profile i will publish many different stuff related to tech.
+      In this profile I'll publish many different stuff related to tech.
       <br>
-      I love coding and automating so i hope this profile can be full of projects.
+      I love coding and automating so I hope this profile can be full of projects.
       <br>
       <br>
       Thanks for reading this, feel free to explore!
